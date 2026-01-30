@@ -1,8 +1,22 @@
-## Hi there 👋
 
-My name is Raphael
-Student at Objectif 3D Angouleme.
+# Hi my name is Raphael
 
-I'm based in Angouleme/France. You can Contact me at raphaelbouvier5@gmail.com
 
-SKILLS : C++/C#/Python
+
+## 🚀 About Me
+I'm a gameplay programmer in unreal engine and unity.
+
+## Languages
+
+
+| Languages             | Where                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Native C++ | Console Games |
+| SFML | 2D games |
+| Native C# | Console Games |
+| WPF | Applications |
+| Unity Engine | 2D and 3D Games |
+| Python | Games, tools for Maya, Unreal Engine |
+| Unreal Engine C++ | 3D Games |
+| Unreal Engine Blueprint| 3D Games |
+
