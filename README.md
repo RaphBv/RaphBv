@@ -5,6 +5,7 @@
 
 ## 🚀 About Me
 I'm a gameplay programmer in unreal engine and unity.
+I started with native c++ and console games to learn c++ and little by little I passed on Engines like Unreal and Unity.
 
 ## Languages
 
