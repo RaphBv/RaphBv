@@ -24,7 +24,7 @@ I started with native c++ and console games to learn c++ and little by little I 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge)]()
+[![portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge)](https://raphbv.github.io/Portfolio/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-bouvier/)
 
