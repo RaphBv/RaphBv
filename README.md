@@ -28,3 +28,4 @@ I started with native c++ and console games to learn c++ and little by little I 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-bouvier/)
 
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge)](https://raphbv.itch.io/)
